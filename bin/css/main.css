@@ -1,0 +1,53 @@
+@import url("../../webfonts/Gabriola_web/stylesheet.css");
+body {
+        background-color: rgba(75,63,63,1.00);
+        margin: 0 auto;
+        color: rgba(0,0,0,1.00);
+}
+#main {
+        width: 900px;
+        margin: 0 auto;
+}
+header {
+
+
+
+}
+#main header img {
+        margin-left: 75px;
+}
+
+#canvas-border {
+		border-style:solid;
+		border-width:3px;
+}
+#main #data {
+	clear: left;
+
+}
+#main header #navbar span {
+	display: inline;
+	float: left;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	padding-right: 6px;
+	font-family: Gabriola-web;
+	font-size: x-large;
+	border: thin dotted rgba(255,255,255,1.00);
+}
+#main header #navbar {
+	margin: 0 auto;
+}
+
+#main header #navbar a span {
+	text-decoration: none;
+	color: rgba(255,255,255,1.00);
+}
+#main header #navbar a:visited span {
+	color:rgba(223,223,223,1.00);
+}
+#main header #navbar a:hover span {
+	text-decoration: underline;
+	color:rgba(11,146,27,1.00);
+}

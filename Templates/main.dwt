@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="../bin/css/main.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="main">
+	<header>
+    	<img src="../bin/images/logo.png" width="750" height="375" alt=""/>
+    	<div id="navbar">
+        	<a href="/~dcsp04/index.php"><span>Home</span></a>
+            <span>Browse Sets</span>
+            <span>About Us</span>
+            <span>Log In</span>
+            <span>Search</span>
+        </div>
+    </header>
+    
+	<div id="data"><!-- TemplateBeginEditable name="data" -->
+    	data
+    <!-- TemplateEndEditable --></div><!--End data Div -->
+    
+</div><!--End Mmin Div -->
+
+</body>
+</html>

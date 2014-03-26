@@ -9,6 +9,7 @@
 
 <body>
 <div id="main">
+Version 2
 	<header><img src="bin/images/logo.png" width="750" height="375" alt=""/></header>
 <form>
             <textarea name="editor1" id="editor1" rows="10" cols="80"></textarea>
